@@ -1,0 +1,31 @@
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align:center;
+    background-image:url('lawn.jpg');
+    background-repeat:no-repeat;
+    background-size: cover;
+    font-weight:bold;
+}
+#msg-el{
+    font-style: italic;
+}
+h1{
+    color:gold;
+    font-size: 80px;
+}
+p{
+    color:aliceblue;
+    font-size:30px;
+    
+}
+button{
+    background:gold;
+    height:50px;
+    width:250px;
+    border-radius: 10px;
+    font-size:30px;
+    color:green;
+    border:none;
+    font-style: bold;
+
+}
